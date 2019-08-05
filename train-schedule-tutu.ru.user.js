@@ -3,11 +3,14 @@
 // @name:ru         Расписание Tutu.ru
 // @namespace    https://github.com/AlekPet/
 // @version      0.1
+// @license https://github.com/AlekPet/Train-schedule-Tutu.ru/raw/master/LICENSE
 // @description  Copy Train schedule!
 // @description:ru  Копируем расписание!
 // @author       AlekPet
 // @match        https://www.tutu.ru/rasp.php*
 // @icon        https://cdn1.tu-tu.ru/images2/bemp/svg/logo/2018/logo_tutu_final.svg
+// @updateURL https://github.com/AlekPet/Train-schedule-Tutu.ru/raw/master/train-schedule-tutu.ru.user.js
+// @downloadURL https://github.com/AlekPet/Train-schedule-Tutu.ru/raw/master/train-schedule-tutu.ru.user.js
 // @run-at document-end
 // @grant GM_addStyle
 // @require https://code.jquery.com/jquery-3.1.0.min.js
